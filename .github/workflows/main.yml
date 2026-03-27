@@ -20,6 +20,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: jessica-po
+          start_date: '2026-01-01'   # <-- first day to show
+          end_date: '2026-03-27'
 
       # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
