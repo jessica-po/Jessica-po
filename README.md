@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,10,14,18&text=Jessica&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Integration%20Developer%20%2F%20Researcher%20%2F%20Incoming%20Masters%20Student&descSize=18&descAlignY=55&textBg=false"/>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
